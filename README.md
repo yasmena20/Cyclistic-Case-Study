@@ -1,7 +1,8 @@
 # Cyclistic-Case-Study
 
 ## Links
-Certificate: [Google Data Analyitics](https://www.coursera.org/account/accomplishments/professional-cert/WLR7P5RF93BW?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)   
+Certificate: [Google Data Analyitics](https://www.coursera.org/account/accomplishments/professional-cert/WLR7P5RF93BW?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) 
+Data Combinig: data_combining.sql
 Data visualisation: [Tableau](https://public.tableau.com/views/TypesofBikes/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Introduction
